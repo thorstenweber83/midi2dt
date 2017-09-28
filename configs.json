@@ -1,0 +1,1178 @@
+[
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1602"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "1-",
+            "Shift+",
+            "Q"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1603"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "1+",
+            "Shift+",
+            "W"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1604"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "2-",
+            "Shift+",
+            "E"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1605"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "2+",
+            "Shift+",
+            "R"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1606"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "3-",
+            "Shift+",
+            "T"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1607"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "3+",
+            "Shift+",
+            "Y"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1608"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "4-",
+            "Shift+",
+            "U"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1609"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "4+",
+            "Shift+",
+            "I"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x160a"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "5-",
+            "Shift+",
+            "O"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x160b"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "5+",
+            "Shift+",
+            "P"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x160c"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "6-",
+            "Alt+",
+            2
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x160d"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "6+",
+            "Alt+",
+            3
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x160e"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "7-",
+            "",
+            "Left"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x160f"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "7+",
+            "",
+            "Right"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1610"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "8-",
+            "",
+            "Up"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1611"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "8+",
+            "",
+            "Down"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1612"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "9-",
+            "-",
+            "<<Undefined>>"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1613"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "9+",
+            "-",
+            "<<Undefined>>"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1614"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "10-",
+            "-",
+            "<<Undefined>>"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1615"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "10+",
+            "-",
+            "<<Undefined>>"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1616"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "11-",
+            "Alt+",
+            "q"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1617"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "11+",
+            "Alt+",
+            "w"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1618"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "12-",
+            "Alt+",
+            "e"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1619"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "12+",
+            "Alt+",
+            "r"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x161a"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "13-",
+            "Alt+",
+            "t"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x161b"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "13+",
+            "Alt+",
+            "y"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x161c"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "14-",
+            "Alt+",
+            "u"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x161d"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "14+",
+            "Alt+",
+            "i"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x161e"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "15-",
+            "Alt+",
+            "o"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x161f"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "15+",
+            "Alt+",
+            "p"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1620"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "16-",
+            "Alt+",
+            "KP_Subtract"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1621"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "16+",
+            "Alt+",
+            "KP_Add"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1622"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "17-",
+            "Alt+",
+            "bracketleft"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1623"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "17+",
+            "Alt+",
+            "bracketright"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1624"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "18-",
+            "Ctrl+",
+            "z"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x1625"
+        ],
+        "text": "",
+        "values": [
+            "CC",
+            "18+",
+            "Ctrl+",
+            "y"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x900"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            0,
+            "Shift+",
+            "exclam"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x901"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            1,
+            "Shift+",
+            "quotedbl"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x902"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            2,
+            "Shift+",
+            "numbersign"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x903"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            3,
+            "Shift+",
+            "dollar"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x904"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            4,
+            "Shift+",
+            "percent"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x905"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            5,
+            "-",
+            "<<Undefined>>"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x906"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            6,
+            "",
+            "<<Undefined>>"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x907"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            7,
+            "",
+            "<<Undefined>>"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x908"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            8,
+            "",
+            "F1"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x909"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            9,
+            "",
+            "F2"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x90a"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            10,
+            "",
+            "F3"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x90b"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            11,
+            "",
+            "F4"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x90c"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            12,
+            "",
+            "F5"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x90d"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            13,
+            "Ctrl+",
+            "e"
+        ]
+    },
+    {
+        "image": "",
+        "open": true,
+        "tags": [
+            "0x90e"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            14,
+            "Shift+",
+            "J"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x90f"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            15,
+            "",
+            "d"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x910"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            16,
+            "",
+            1
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x911"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            17,
+            "",
+            2
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x912"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            18,
+            "",
+            3
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x913"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            19,
+            "",
+            4
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x914"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            20,
+            "",
+            5
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x915"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            21,
+            "",
+            "space"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x916"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            22,
+            "",
+            "r"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x917"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            23,
+            "",
+            "Tab"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x918"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            24,
+            "Alt+",
+            1
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x919"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            25,
+            "Alt+",
+            2
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x91a"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            26,
+            "Alt+",
+            3
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x91b"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            27,
+            "Alt+",
+            4
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x91c"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            28,
+            "Alt+",
+            5
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x91d"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            29,
+            "Alt+",
+            6
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x91e"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            30,
+            "Alt+",
+            7
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x91f"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            31,
+            "Alt+",
+            8
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x920"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            32,
+            "",
+            "BackSpace"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x921"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            33,
+            "",
+            "space"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x922"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            34,
+            "Alt+",
+            "d"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x923"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            35,
+            "Alt+",
+            "f"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x924"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            36,
+            "Alt+",
+            "g"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x925"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            37,
+            "Alt+",
+            "h"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x926"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            38,
+            "Alt+",
+            "j"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x927"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            39,
+            "",
+            "l"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x928"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            40,
+            "Shift+",
+            "O"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x929"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            41,
+            "",
+            "o"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x92a"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            42,
+            "Alt+",
+            "c"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x92b"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            43,
+            "Alt+",
+            "v"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x92c"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            44,
+            "Alt+",
+            "b"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x92d"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            45,
+            "Alt+",
+            "n"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x92e"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            46,
+            "Alt+",
+            "m"
+        ]
+    },
+    {
+        "image": "",
+        "open": 0,
+        "tags": [
+            "0x92f"
+        ],
+        "text": "",
+        "values": [
+            "Note-on",
+            47,
+            "Alt+",
+            "comma"
+        ]
+    }
+]
