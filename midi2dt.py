@@ -5,6 +5,7 @@ import threading
 import queue
 import logging
 import json
+import sys
 try:
     import Tkinter as tk
     import tkFont
@@ -26,7 +27,7 @@ class MidiKeyboard(object):
         if device is None:
             if self._device is None:
                 return
-            device = self.device
+            device = self._device
         else:
             self._device = device
         # TODO: Check if the device exists
@@ -209,14 +210,14 @@ class TkWindow(tk.Frame):
                 return
             if len(modifier):
                 value = "{}{}".format(modifier, value)
-            p = subprocess.Popen(["xdotool", "key", value])
+            subprocess.Popen(["xdotool", "key", value])
 
     def sort_treeview(self, column=0, reverse=False):
         new_treeview = [(self._tree.set(child, column), child) for child in self._tree.get_children('')]
         new_treeview.sort(reverse=reverse)
 
         # rearrange items in sorted positions
-        for index, (value, child) in enumerate(new_treeview):
+        for index, (_, child) in enumerate(new_treeview):
             self._tree.move(child, '', index)
 
     def selected_item(self, tree_item):
