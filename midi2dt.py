@@ -134,7 +134,7 @@ class TkWindow(tk.Frame):
         frame2 = ttk.Frame(self)
         frame2.pack(side="right", fill="y", expand=False, padx=5, pady=5)
 
-        tree_headers = [('Type',30), ('Key ID',10), ('Modifier',10), ('Key',90)]
+        tree_headers = [('Type',30), ('Key ID',10), ('Modifier',10), ('Key',90), ('Scale', 10)]
         self._tree = ttk.Treeview(frame1_1, columns=[name for name, _ in tree_headers], show="headings", height=20)#, selectmode='browse')
         self._tree.pack(side='left', fill='both', expand=True)
         #~ self._tree.bind('<Button-1>', self.selected_item)
@@ -172,6 +172,9 @@ class TkWindow(tk.Frame):
                 options = json.load(f)
             for line in options:
                 line["tags"][0] = int(line['tags'][0],16)
+                # append neutral scale if not present
+                if len(line["values"]) < 5:
+                   line["values"].append(1)
                 self._midi_key_list.append(line["tags"][0])
                 self._tree.insert('', 'end', line["tags"][0],
                     values=line["values"], tags=line["tags"][0])
@@ -184,6 +187,9 @@ class TkWindow(tk.Frame):
             for child in self._tree.get_children():
                 key = self._tree.item(child)
                 key["tags"][0] = hex(key["tags"][0])
+                # append neutral scale if not present
+                if len(key["values"]) < 5:
+                   key["values"].append(1)
                 options.append(key)
             with open(file_name, "w") as f:
                 json.dump(options, f, sort_keys=True, indent=4)
@@ -206,11 +212,16 @@ class TkWindow(tk.Frame):
         if self._tree.exists(key):
             modifier = self._tree.item(key, option="values")[2]
             value = self._tree.item(key, option="values")[3]
+            scale = int(self._tree.item(key, option="values")[4])
             if value == "<<Undefined>>":
                 return
             if len(modifier):
                 value = "{}{}".format(modifier, value)
-            subprocess.Popen(["xdotool", "key", value])
+            
+            command = ["xdotool"]
+            for _ in range(0, scale):
+                command.extend(["key", value])
+            subprocess.Popen(command)
 
     def sort_treeview(self, column=0, reverse=False):
         new_treeview = [(self._tree.set(child, column), child) for child in self._tree.get_children('')]

@@ -10,7 +10,8 @@
             "CC",
             "Fader 0+",
             "Shift+",
-            "Up"
+            "Up",
+            4
         ]
     },
     {
@@ -24,7 +25,8 @@
             "CC",
             "Fader 0-",
             "Shift+",
-            "Down"
+            "Down",
+            4
         ]
     },
     {
@@ -38,7 +40,8 @@
             "CC",
             "Fader 2+",
             "Alt+",
-            "Up"
+            "Up",
+            1
         ]
     },
     {
@@ -52,7 +55,8 @@
             "CC",
             "Fader 2-",
             "Alt+",
-            "Down"
+            "Down",
+            1
         ]
     },
     {
@@ -66,7 +70,8 @@
             "CC",
             "Fader 3+",
             "Shift+",
-            "bracketleft"
+            "bracketleft",
+            1
         ]
     },
     {
@@ -80,7 +85,8 @@
             "CC",
             "Fader 3-",
             "Shift+",
-            "bracketright"
+            "bracketright",
+            1
         ]
     },
     {
@@ -94,7 +100,8 @@
             "CC",
             "Fader 4+",
             "Ctrl+",
-            "bracketleft"
+            "bracketleft",
+            1
         ]
     },
     {
@@ -108,7 +115,8 @@
             "CC",
             "Fader 4-",
             "Ctrl+",
-            "bracketright"
+            "bracketright",
+            1
         ]
     },
     {
@@ -122,7 +130,8 @@
             "CC",
             "Fader 5+",
             "Alt+",
-            "bracketleft"
+            "bracketleft",
+            1
         ]
     },
     {
@@ -136,7 +145,8 @@
             "CC",
             "Fader 5-",
             "Alt+",
-            "bracketright"
+            "bracketright",
+            1
         ]
     },
     {
@@ -150,7 +160,8 @@
             "CC",
             "Fader 6+",
             "Shift+",
-            "Right"
+            "Right",
+            1
         ]
     },
     {
@@ -164,7 +175,8 @@
             "CC",
             "Fader 6-",
             "Shift+",
-            "Left"
+            "Left",
+            1
         ]
     },
     {
@@ -178,7 +190,8 @@
             "CC",
             "Fader 7+",
             "Ctrl+",
-            "Right"
+            "Right",
+            1
         ]
     },
     {
@@ -192,7 +205,8 @@
             "CC",
             "Fader 7-",
             "Ctrl+",
-            "Left"
+            "Left",
+            1
         ]
     },
     {
@@ -206,7 +220,8 @@
             "CC",
             "Fader 1+",
             "Ctrl+",
-            "Up"
+            "Up",
+            1
         ]
     },
     {
@@ -220,7 +235,8 @@
             "CC",
             "Fader 1-",
             "Ctrl+",
-            "Down"
+            "Down",
+            1
         ]
     },
     {
@@ -234,7 +250,8 @@
             "CC",
             "Pot 0+",
             "Shift+",
-            "Up"
+            "Up",
+            1
         ]
     },
     {
@@ -248,7 +265,8 @@
             "CC",
             "Pot 0-",
             "Shift+",
-            "Down"
+            "Down",
+            1
         ]
     },
     {
@@ -262,7 +280,8 @@
             "CC",
             "Pot 1+",
             "Ctrl+",
-            "Up"
+            "Up",
+            1
         ]
     },
     {
@@ -276,7 +295,8 @@
             "CC",
             "Pot 1-",
             "Ctrl+",
-            "Down"
+            "Down",
+            1
         ]
     },
     {
@@ -290,7 +310,8 @@
             "CC",
             "Pot 2+",
             "Alt+",
-            "Up"
+            "Up",
+            1
         ]
     },
     {
@@ -304,7 +325,8 @@
             "CC",
             "Pot 2-",
             "Alt+",
-            "Down"
+            "Down",
+            1
         ]
     },
     {
@@ -318,7 +340,8 @@
             "CC",
             "Pot 3+",
             "Shift+",
-            "bracketleft"
+            "bracketleft",
+            1
         ]
     },
     {
@@ -332,7 +355,8 @@
             "CC",
             "Pot 3-",
             "Shift+",
-            "bracketright"
+            "bracketright",
+            1
         ]
     },
     {
@@ -346,7 +370,8 @@
             "CC",
             "Pot 4+",
             "Ctrl+",
-            "bracketleft"
+            "bracketleft",
+            1
         ]
     },
     {
@@ -360,7 +385,8 @@
             "CC",
             "Pot 4-",
             "Ctrl+",
-            "bracketright"
+            "bracketright",
+            1
         ]
     },
     {
@@ -374,7 +400,8 @@
             "CC",
             "Pot 5+",
             "Alt+",
-            "bracketleft"
+            "bracketleft",
+            1
         ]
     },
     {
@@ -388,7 +415,8 @@
             "CC",
             "Pot 5-",
             "Alt+",
-            "bracketright"
+            "bracketright",
+            1
         ]
     },
     {
@@ -402,7 +430,8 @@
             "CC",
             "Pot 6+",
             "Shift+",
-            "Right"
+            "Right",
+            1
         ]
     },
     {
@@ -416,7 +445,8 @@
             "CC",
             "Pot 6-",
             "Shift+",
-            "Left"
+            "Left",
+            1
         ]
     },
     {
@@ -430,7 +460,8 @@
             "CC",
             "Pot 7+",
             "Ctrl+",
-            "Right"
+            "Right",
+            1
         ]
     },
     {
@@ -444,7 +475,8 @@
             "CC",
             "Pot 7-",
             "Ctrl+",
-            "Left"
+            "Left",
+            1
         ]
     },
     {
@@ -458,7 +490,8 @@
             "CC",
             "S 0+",
             "Ctrl+",
-            0
+            0,
+            1
         ]
     },
     {
@@ -472,7 +505,8 @@
             "CC",
             "S 0-",
             "Ctrl+",
-            0
+            0,
+            1
         ]
     },
     {
@@ -486,6 +520,7 @@
             "CC",
             "S 1+",
             "Ctrl+",
+            1,
             1
         ]
     },
@@ -500,6 +535,7 @@
             "CC",
             "S 1-",
             "Ctrl+",
+            1,
             1
         ]
     },
@@ -514,7 +550,8 @@
             "CC",
             "S 2+",
             "Ctrl+",
-            2
+            2,
+            1
         ]
     },
     {
@@ -528,7 +565,8 @@
             "CC",
             "S 2-",
             "Ctrl+",
-            2
+            2,
+            1
         ]
     },
     {
@@ -542,7 +580,8 @@
             "CC",
             "S 3+",
             "Ctrl+",
-            3
+            3,
+            1
         ]
     },
     {
@@ -556,7 +595,8 @@
             "CC",
             "S 3-",
             "Ctrl+",
-            3
+            3,
+            1
         ]
     },
     {
@@ -570,7 +610,8 @@
             "CC",
             "S 4+",
             "Ctrl+",
-            4
+            4,
+            1
         ]
     },
     {
@@ -584,7 +625,8 @@
             "CC",
             "S 4-",
             "Ctrl+",
-            4
+            4,
+            1
         ]
     },
     {
@@ -598,7 +640,8 @@
             "CC",
             "S 5+",
             "Ctrl+",
-            5
+            5,
+            1
         ]
     },
     {
@@ -612,7 +655,8 @@
             "CC",
             "S 5-",
             "Ctrl+",
-            5
+            5,
+            1
         ]
     },
     {
@@ -626,7 +670,8 @@
             "CC",
             "S 6+",
             "Ctrl+",
-            6
+            6,
+            1
         ]
     },
     {
@@ -640,7 +685,8 @@
             "CC",
             "S 6-",
             "Ctrl+",
-            6
+            6,
+            1
         ]
     },
     {
@@ -654,7 +700,8 @@
             "CC",
             "S 7+",
             "Ctrl+",
-            7
+            7,
+            1
         ]
     },
     {
@@ -668,7 +715,8 @@
             "CC",
             "S 7-",
             "Ctrl+",
-            7
+            7,
+            1
         ]
     }
 ]
