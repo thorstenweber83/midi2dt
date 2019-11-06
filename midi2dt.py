@@ -300,9 +300,18 @@ class TkWindow(tk.Frame):
                 if (command[0] >> 4) == 0xB:
                     key = key<<1
                 self.update_keys_list(key)
-                movement = float((self._tree.index(key)-5)/len(self._tree.get_children()))
-                self._tree.yview('moveto' , movement)
-                self._tree.selection_set(key)
+                try: 
+                    movement = float((self._tree.index(key)-5)/len(self._tree.get_children()))
+                    self._tree.yview('moveto' , movement)
+                    self._tree.selection_set(key)
+                except Exception:
+                    logging.info("""
+
+Could not find key: "%s" in config!
+please add an entry with a "tags" value of "%s"
+
+and another one with "%s" for the positive direction's key binding
+                    """, hex(key), hex(key), hex(key+1))
             else:
                 self.send_keystroke(command)
             logging.debug('Key: %s %s', hex(key), hex(command[2]))
