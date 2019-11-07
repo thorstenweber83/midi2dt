@@ -15,6 +15,8 @@ python3.pkgs.buildPythonApplication {
   
   installPhase = ''
     mkdir -p $out/bin
+    mkdir -p $out/share/config
     cp midi2dt.py $out/bin/midi2dt
+    cp *.json $out/share/config/
   '';
 }
