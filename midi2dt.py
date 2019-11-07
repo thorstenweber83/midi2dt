@@ -6,6 +6,7 @@ import queue
 import logging
 import json
 import sys
+import os
 try:
     import Tkinter as tk
     import tkFont
@@ -15,6 +16,8 @@ except ImportError:  # Python 3
     import tkinter.font as tkFont
     import tkinter.ttk as ttk
 
+
+configFile = os.getenv("MIDI2DT_CONFIG_FILE", "configs.json")
 
 class MidiKeyboard(object):
     def __init__(self, device=None, *args, **kwargs):
@@ -166,9 +169,9 @@ class TkWindow(tk.Frame):
     def connect_to_device(self):
         self.midikb = MidiKeyboard(self._cbox_device.get())
 
-    def read_configs(self, file_format="json", file_name='configs.json'):
+    def read_configs(self, file_format="json"):
         try:
-            with open(file_name, "r") as f:
+            with open(configFile, "r") as f:
                 options = json.load(f)
             for line in options:
                 line["tags"][0] = int(line['tags'][0],16)
@@ -181,7 +184,7 @@ class TkWindow(tk.Frame):
         except Exception:
             self._programming_mode.set(1)
 
-    def save_configs(self, file_format="json", file_name='configs.json'):
+    def save_configs(self, file_format="json"):
         if file_format=='json':
             options = []
             for child in self._tree.get_children():
@@ -191,7 +194,7 @@ class TkWindow(tk.Frame):
                 if len(key["values"]) < 5:
                    key["values"].append(1)
                 options.append(key)
-            with open(file_name, "w") as f:
+            with open(configFile, "w") as f:
                 json.dump(options, f, sort_keys=True, indent=4)
 
     def send_keystroke(self, midikey):
